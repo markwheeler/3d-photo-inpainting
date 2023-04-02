@@ -25,7 +25,7 @@ img_format: '.jpg'
 depth_format: '.npy'
 require_midas: True
 depth_threshold: 0.04
-ext_edge_threshold: 0.002
+ext_edge_threshold: 0.001 # Updated for a bit more back fill
 sparse_iter: 5
 filter_size: [7, 7, 5, 5, 5]
 sigma_s: 4.0
