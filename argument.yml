@@ -18,7 +18,7 @@ mesh_folder: mesh
 video_folder: video
 load_ply: False
 save_ply: True
-inference_video: True
+render_video: True
 gpu_ids: 0
 offscreen_rendering: False
 img_format: '.jpg'
